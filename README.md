@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sara-soni/DSA-Q/tree/master/0022-generate-parentheses) |
 | [0709-to-lower-case](https://github.com/sara-soni/DSA-Q/tree/master/0709-to-lower-case) |
 | [2942-find-words-containing-character](https://github.com/sara-soni/DSA-Q/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/sara-soni/DSA-Q/tree/master/3019-number-of-changing-keys) |
@@ -50,4 +51,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/sara-soni/DSA-Q/tree/master/3024-type-of-triangle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sara-soni/DSA-Q/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sara-soni/DSA-Q/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sara-soni/DSA-Q/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
