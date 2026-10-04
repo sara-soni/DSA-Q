@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0507-perfect-number](https://github.com/sara-soni/DSA-Q/tree/master/0507-perfect-number) |
 | [1486-xor-operation-in-an-array](https://github.com/sara-soni/DSA-Q/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sara-soni/DSA-Q/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sara-soni/DSA-Q/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
