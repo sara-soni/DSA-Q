@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sara-soni/DSA-Q/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/sara-soni/DSA-Q/tree/master/0278-first-bad-version) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sara-soni/DSA-Q/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sara-soni/DSA-Q/tree/master/0069-sqrtx) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/sara-soni/DSA-Q/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
