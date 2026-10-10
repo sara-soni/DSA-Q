@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sara-soni/DSA-Q/tree/master/0001-two-sum) |
 | [0059-spiral-matrix-ii](https://github.com/sara-soni/DSA-Q/tree/master/0059-spiral-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sara-soni/DSA-Q/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sara-soni/DSA-Q/tree/master/0977-squares-of-a-sorted-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sara-soni/DSA-Q/tree/master/0001-two-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sara-soni/DSA-Q/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Heap (Priority Queue)
 |  |
