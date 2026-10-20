@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/sara-soni/DSA-Q/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sara-soni/DSA-Q/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sara-soni/DSA-Q/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/sara-soni/DSA-Q/tree/master/3886-sum-of-sortable-integers) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/sara-soni/DSA-Q/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sara-soni/DSA-Q/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sara-soni/DSA-Q/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/sara-soni/DSA-Q/tree/master/3886-sum-of-sortable-integers) |
 ## Matrix
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/sara-soni/DSA-Q/tree/master/3024-type-of-triangle) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sara-soni/DSA-Q/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sara-soni/DSA-Q/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/sara-soni/DSA-Q/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sara-soni/DSA-Q/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/sara-soni/DSA-Q/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
 |  |
 | ------- |
