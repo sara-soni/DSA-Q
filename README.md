@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sara-soni/DSA-Q/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2942-find-words-containing-character](https://github.com/sara-soni/DSA-Q/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/sara-soni/DSA-Q/tree/master/3019-number-of-changing-keys) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/sara-soni/DSA-Q/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Polygons
 |  |
 | ------- |
