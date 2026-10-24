@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/sara-soni/DSA-Q/tree/master/0507-perfect-number) |
 | [1486-xor-operation-in-an-array](https://github.com/sara-soni/DSA-Q/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sara-soni/DSA-Q/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2409-count-days-spent-together](https://github.com/sara-soni/DSA-Q/tree/master/2409-count-days-spent-together) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sara-soni/DSA-Q/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/sara-soni/DSA-Q/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/sara-soni/DSA-Q/tree/master/2769-find-the-maximum-achievable-number) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sara-soni/DSA-Q/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/sara-soni/DSA-Q/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sara-soni/DSA-Q/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2409-count-days-spent-together](https://github.com/sara-soni/DSA-Q/tree/master/2409-count-days-spent-together) |
 | [2942-find-words-containing-character](https://github.com/sara-soni/DSA-Q/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/sara-soni/DSA-Q/tree/master/3019-number-of-changing-keys) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/sara-soni/DSA-Q/tree/master/3863-minimum-operations-to-sort-a-string) |
