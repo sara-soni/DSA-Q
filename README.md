@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/sara-soni/DSA-Q/tree/master/0059-spiral-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sara-soni/DSA-Q/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sara-soni/DSA-Q/tree/master/0977-squares-of-a-sorted-array) |
+| [1254-number-of-closed-islands](https://github.com/sara-soni/DSA-Q/tree/master/1254-number-of-closed-islands) |
 | [1550-three-consecutive-odds](https://github.com/sara-soni/DSA-Q/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/sara-soni/DSA-Q/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sara-soni/DSA-Q/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/sara-soni/DSA-Q/tree/master/0059-spiral-matrix-ii) |
+| [1254-number-of-closed-islands](https://github.com/sara-soni/DSA-Q/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/sara-soni/DSA-Q/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
@@ -141,10 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sara-soni/DSA-Q/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1254-number-of-closed-islands](https://github.com/sara-soni/DSA-Q/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sara-soni/DSA-Q/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1254-number-of-closed-islands](https://github.com/sara-soni/DSA-Q/tree/master/1254-number-of-closed-islands) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -196,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sara-soni/DSA-Q/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sara-soni/DSA-Q/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/sara-soni/DSA-Q/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
