@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sara-soni/DSA-Q/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/sara-soni/DSA-Q/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sara-soni/DSA-Q/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1796-second-largest-digit-in-a-string](https://github.com/sara-soni/DSA-Q/tree/master/1796-second-largest-digit-in-a-string) |
 | [2409-count-days-spent-together](https://github.com/sara-soni/DSA-Q/tree/master/2409-count-days-spent-together) |
 | [2942-find-words-containing-character](https://github.com/sara-soni/DSA-Q/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/sara-soni/DSA-Q/tree/master/3019-number-of-changing-keys) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sara-soni/DSA-Q/tree/master/0001-two-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sara-soni/DSA-Q/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1796-second-largest-digit-in-a-string](https://github.com/sara-soni/DSA-Q/tree/master/1796-second-largest-digit-in-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sara-soni/DSA-Q/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sara-soni/DSA-Q/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sara-soni/DSA-Q/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
