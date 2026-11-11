@@ -1,7 +1,7 @@
 class Solution {
     public int majorityElement(int[] nums) {
         int n=nums.length;
-        TreeMap<Integer,Integer> h = new TreeMap<>();
+        HashMap<Integer,Integer> h = new HashMap<>();
         for(int i: nums){
             h.put(i,h.getOrDefault(i,0)+1);
         }
