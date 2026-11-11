@@ -181,12 +181,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sara-soni/DSA-Q/tree/master/0094-binary-tree-inorder-traversal) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sara-soni/DSA-Q/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sara-soni/DSA-Q/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sara-soni/DSA-Q/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sara-soni/DSA-Q/tree/master/0094-binary-tree-inorder-traversal) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sara-soni/DSA-Q/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sara-soni/DSA-Q/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1254-number-of-closed-islands](https://github.com/sara-soni/DSA-Q/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/sara-soni/DSA-Q/tree/master/1267-count-servers-that-communicate) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sara-soni/DSA-Q/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sara-soni/DSA-Q/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1254-number-of-closed-islands](https://github.com/sara-soni/DSA-Q/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/sara-soni/DSA-Q/tree/master/1267-count-servers-that-communicate) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sara-soni/DSA-Q/tree/master/0094-binary-tree-inorder-traversal) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sara-soni/DSA-Q/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sara-soni/DSA-Q/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Newton's Method
 |  |
@@ -307,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sara-soni/DSA-Q/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sara-soni/DSA-Q/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 <!---LeetCode Topics End-->
