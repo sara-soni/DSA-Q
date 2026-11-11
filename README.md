@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sara-soni/DSA-Q/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/sara-soni/DSA-Q/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/sara-soni/DSA-Q/tree/master/0059-spiral-matrix-ii) |
 | [0169-majority-element](https://github.com/sara-soni/DSA-Q/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sara-soni/DSA-Q/tree/master/0347-top-k-frequent-elements) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sara-soni/DSA-Q/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/sara-soni/DSA-Q/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sara-soni/DSA-Q/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sara-soni/DSA-Q/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/sara-soni/DSA-Q/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sara-soni/DSA-Q/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/sara-soni/DSA-Q/tree/master/0049-group-anagrams) |
 | [0678-valid-parenthesis-string](https://github.com/sara-soni/DSA-Q/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/sara-soni/DSA-Q/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/sara-soni/DSA-Q/tree/master/0856-score-of-parentheses) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sara-soni/DSA-Q/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/sara-soni/DSA-Q/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/sara-soni/DSA-Q/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sara-soni/DSA-Q/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sara-soni/DSA-Q/tree/master/0350-intersection-of-two-arrays-ii) |
