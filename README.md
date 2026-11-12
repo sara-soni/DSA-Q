@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sara-soni/DSA-Q/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2942-find-words-containing-character](https://github.com/sara-soni/DSA-Q/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/sara-soni/DSA-Q/tree/master/3024-type-of-triangle) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sara-soni/DSA-Q/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sara-soni/DSA-Q/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sara-soni/DSA-Q/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sara-soni/DSA-Q/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
