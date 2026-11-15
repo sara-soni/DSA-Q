@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/sara-soni/DSA-Q/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sara-soni/DSA-Q/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sara-soni/DSA-Q/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sara-soni/DSA-Q/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sara-soni/DSA-Q/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sara-soni/DSA-Q/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sara-soni/DSA-Q/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sara-soni/DSA-Q/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sara-soni/DSA-Q/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sara-soni/DSA-Q/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sara-soni/DSA-Q/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sara-soni/DSA-Q/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sorting
 |  |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sara-soni/DSA-Q/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sara-soni/DSA-Q/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sara-soni/DSA-Q/tree/master/1796-second-largest-digit-in-a-string) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sara-soni/DSA-Q/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sara-soni/DSA-Q/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sara-soni/DSA-Q/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sara-soni/DSA-Q/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
