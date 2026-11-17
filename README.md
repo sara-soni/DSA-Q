@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/sara-soni/DSA-Q/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sara-soni/DSA-Q/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sara-soni/DSA-Q/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/sara-soni/DSA-Q/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sara-soni/DSA-Q/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sorting
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sara-soni/DSA-Q/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sara-soni/DSA-Q/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2409-count-days-spent-together](https://github.com/sara-soni/DSA-Q/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/sara-soni/DSA-Q/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2942-find-words-containing-character](https://github.com/sara-soni/DSA-Q/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/sara-soni/DSA-Q/tree/master/3019-number-of-changing-keys) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sara-soni/DSA-Q/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sara-soni/DSA-Q/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sara-soni/DSA-Q/tree/master/0678-valid-parenthesis-string) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sara-soni/DSA-Q/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/sara-soni/DSA-Q/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sara-soni/DSA-Q/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/sara-soni/DSA-Q/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/sara-soni/DSA-Q/tree/master/3693-climbing-stairs-ii) |
