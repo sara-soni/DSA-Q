@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sara-soni/DSA-Q/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/sara-soni/DSA-Q/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/sara-soni/DSA-Q/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/sara-soni/DSA-Q/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/sara-soni/DSA-Q/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sara-soni/DSA-Q/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sara-soni/DSA-Q/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/sara-soni/DSA-Q/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/sara-soni/DSA-Q/tree/master/0074-search-a-2d-matrix) |
 | [1254-number-of-closed-islands](https://github.com/sara-soni/DSA-Q/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/sara-soni/DSA-Q/tree/master/1267-count-servers-that-communicate) |
 | [1672-richest-customer-wealth](https://github.com/sara-soni/DSA-Q/tree/master/1672-richest-customer-wealth) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sara-soni/DSA-Q/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/sara-soni/DSA-Q/tree/master/0074-search-a-2d-matrix) |
 | [0278-first-bad-version](https://github.com/sara-soni/DSA-Q/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sara-soni/DSA-Q/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/sara-soni/DSA-Q/tree/master/0367-valid-perfect-square) |
