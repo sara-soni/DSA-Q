@@ -15,7 +15,7 @@ class Solution {
         chars = s.toCharArray();
         ans = new int[n];
         
-        // Flat array adjacency list
+      
         head = new int[n];
         Arrays.fill(head, -1);
         next = new int[n];
@@ -25,7 +25,7 @@ class Solution {
             addEdge(parent[i], i);
         }
 
-        // Tracks the deepest ancestor seen so far for each character ('a'-'z')
+       
         lastSeen = new int[26];
         Arrays.fill(lastSeen, -1);
 
@@ -43,7 +43,7 @@ class Solution {
         int c = chars[u] - 'a';
         int prevAncestor = lastSeen[c];
 
-        // Update the most recent node with character c to the current node
+       
         lastSeen[c] = u;
         ans[u] = 1;
 
@@ -51,10 +51,10 @@ class Solution {
             dfs(to[e], u);
         }
 
-        // Restore the previous ancestor before leaving u's subtree
+       
         lastSeen[c] = prevAncestor;
 
-        // Attach u's final subtree size to its new parent (or original parent p)
+        
         if (p != -1) {
             int targetParent = (prevAncestor != -1) ? prevAncestor : p;
             ans[targetParent] += ans[u];
