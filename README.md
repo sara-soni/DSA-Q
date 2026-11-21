@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sara-soni/DSA-Q/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sara-soni/DSA-Q/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sara-soni/DSA-Q/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sara-soni/DSA-Q/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sara-soni/DSA-Q/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sara-soni/DSA-Q/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sara-soni/DSA-Q/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sara-soni/DSA-Q/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2942-find-words-containing-character](https://github.com/sara-soni/DSA-Q/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/sara-soni/DSA-Q/tree/master/3019-number-of-changing-keys) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sara-soni/DSA-Q/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sara-soni/DSA-Q/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/sara-soni/DSA-Q/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sara-soni/DSA-Q/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/sara-soni/DSA-Q/tree/master/0094-binary-tree-inorder-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sara-soni/DSA-Q/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sara-soni/DSA-Q/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sara-soni/DSA-Q/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sara-soni/DSA-Q/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sara-soni/DSA-Q/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1254-number-of-closed-islands](https://github.com/sara-soni/DSA-Q/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/sara-soni/DSA-Q/tree/master/1267-count-servers-that-communicate) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sara-soni/DSA-Q/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sara-soni/DSA-Q/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sara-soni/DSA-Q/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/sara-soni/DSA-Q/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sara-soni/DSA-Q/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/sara-soni/DSA-Q/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sara-soni/DSA-Q/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sara-soni/DSA-Q/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Heap (Priority Queue)
