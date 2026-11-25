@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sara-soni/DSA-Q/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/sara-soni/DSA-Q/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sara-soni/DSA-Q/tree/master/0094-binary-tree-inorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/sara-soni/DSA-Q/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/sara-soni/DSA-Q/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/sara-soni/DSA-Q/tree/master/0678-valid-parenthesis-string) |
 | [0853-car-fleet](https://github.com/sara-soni/DSA-Q/tree/master/0853-car-fleet) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sara-soni/DSA-Q/tree/master/0232-implement-queue-using-stacks) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sara-soni/DSA-Q/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sara-soni/DSA-Q/tree/master/0232-implement-queue-using-stacks) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sara-soni/DSA-Q/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
