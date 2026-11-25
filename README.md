@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/sara-soni/DSA-Q/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/sara-soni/DSA-Q/tree/master/0528-random-pick-with-weight) |
 | [0704-binary-search](https://github.com/sara-soni/DSA-Q/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/sara-soni/DSA-Q/tree/master/0713-subarray-product-less-than-k) |
 | [0853-car-fleet](https://github.com/sara-soni/DSA-Q/tree/master/0853-car-fleet) |
 | [0977-squares-of-a-sorted-array](https://github.com/sara-soni/DSA-Q/tree/master/0977-squares-of-a-sorted-array) |
 | [1254-number-of-closed-islands](https://github.com/sara-soni/DSA-Q/tree/master/1254-number-of-closed-islands) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/sara-soni/DSA-Q/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/sara-soni/DSA-Q/tree/master/0528-random-pick-with-weight) |
 | [0704-binary-search](https://github.com/sara-soni/DSA-Q/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/sara-soni/DSA-Q/tree/master/0713-subarray-product-less-than-k) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sara-soni/DSA-Q/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sara-soni/DSA-Q/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sara-soni/DSA-Q/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/sara-soni/DSA-Q/tree/master/0713-subarray-product-less-than-k) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sara-soni/DSA-Q/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sara-soni/DSA-Q/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sara-soni/DSA-Q/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/sara-soni/DSA-Q/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0525-contiguous-array](https://github.com/sara-soni/DSA-Q/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/sara-soni/DSA-Q/tree/master/0528-random-pick-with-weight) |
+| [0713-subarray-product-less-than-k](https://github.com/sara-soni/DSA-Q/tree/master/0713-subarray-product-less-than-k) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sara-soni/DSA-Q/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sara-soni/DSA-Q/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sara-soni/DSA-Q/tree/master/3364-minimum-positive-sum-subarray) |
