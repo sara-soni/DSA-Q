@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sara-soni/DSA-Q/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sara-soni/DSA-Q/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/sara-soni/DSA-Q/tree/master/0496-next-greater-element-i) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/sara-soni/DSA-Q/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0704-binary-search](https://github.com/sara-soni/DSA-Q/tree/master/0704-binary-search) |
 | [0853-car-fleet](https://github.com/sara-soni/DSA-Q/tree/master/0853-car-fleet) |
 | [0977-squares-of-a-sorted-array](https://github.com/sara-soni/DSA-Q/tree/master/0977-squares-of-a-sorted-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/sara-soni/DSA-Q/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sara-soni/DSA-Q/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sara-soni/DSA-Q/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/sara-soni/DSA-Q/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0507-perfect-number](https://github.com/sara-soni/DSA-Q/tree/master/0507-perfect-number) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sara-soni/DSA-Q/tree/master/1352-product-of-the-last-k-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/sara-soni/DSA-Q/tree/master/1486-xor-operation-in-an-array) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sara-soni/DSA-Q/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/sara-soni/DSA-Q/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/sara-soni/DSA-Q/tree/master/0441-arranging-coins) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/sara-soni/DSA-Q/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0704-binary-search](https://github.com/sara-soni/DSA-Q/tree/master/0704-binary-search) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sara-soni/DSA-Q/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sara-soni/DSA-Q/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/sara-soni/DSA-Q/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/sara-soni/DSA-Q/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -411,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/sara-soni/DSA-Q/tree/master/0304-range-sum-query-2d-immutable) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/sara-soni/DSA-Q/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sara-soni/DSA-Q/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sara-soni/DSA-Q/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sara-soni/DSA-Q/tree/master/3364-minimum-positive-sum-subarray) |
@@ -436,4 +441,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/sara-soni/DSA-Q/tree/master/3934-smallest-unique-subarray) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/sara-soni/DSA-Q/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+## Randomized
+|  |
+| ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/sara-soni/DSA-Q/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 <!---LeetCode Topics End-->
