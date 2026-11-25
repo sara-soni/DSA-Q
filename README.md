@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/sara-soni/DSA-Q/tree/master/0528-random-pick-with-weight) |
 | [0704-binary-search](https://github.com/sara-soni/DSA-Q/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/sara-soni/DSA-Q/tree/master/0713-subarray-product-less-than-k) |
+| [0848-shifting-letters](https://github.com/sara-soni/DSA-Q/tree/master/0848-shifting-letters) |
 | [0853-car-fleet](https://github.com/sara-soni/DSA-Q/tree/master/0853-car-fleet) |
 | [0977-squares-of-a-sorted-array](https://github.com/sara-soni/DSA-Q/tree/master/0977-squares-of-a-sorted-array) |
 | [1254-number-of-closed-islands](https://github.com/sara-soni/DSA-Q/tree/master/1254-number-of-closed-islands) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/sara-soni/DSA-Q/tree/master/0290-word-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/sara-soni/DSA-Q/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/sara-soni/DSA-Q/tree/master/0709-to-lower-case) |
+| [0848-shifting-letters](https://github.com/sara-soni/DSA-Q/tree/master/0848-shifting-letters) |
 | [0856-score-of-parentheses](https://github.com/sara-soni/DSA-Q/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sara-soni/DSA-Q/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/sara-soni/DSA-Q/tree/master/1021-remove-outermost-parentheses) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/sara-soni/DSA-Q/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/sara-soni/DSA-Q/tree/master/0528-random-pick-with-weight) |
 | [0713-subarray-product-less-than-k](https://github.com/sara-soni/DSA-Q/tree/master/0713-subarray-product-less-than-k) |
+| [0848-shifting-letters](https://github.com/sara-soni/DSA-Q/tree/master/0848-shifting-letters) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sara-soni/DSA-Q/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sara-soni/DSA-Q/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sara-soni/DSA-Q/tree/master/3364-minimum-positive-sum-subarray) |
