@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sara-soni/DSA-Q/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sara-soni/DSA-Q/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sara-soni/DSA-Q/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/sara-soni/DSA-Q/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sara-soni/DSA-Q/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/sara-soni/DSA-Q/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/sara-soni/DSA-Q/tree/master/0074-search-a-2d-matrix) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/sara-soni/DSA-Q/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/sara-soni/DSA-Q/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/sara-soni/DSA-Q/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sara-soni/DSA-Q/tree/master/0304-range-sum-query-2d-immutable) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sara-soni/DSA-Q/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/sara-soni/DSA-Q/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sara-soni/DSA-Q/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/sara-soni/DSA-Q/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sara-soni/DSA-Q/tree/master/0242-valid-anagram) |
