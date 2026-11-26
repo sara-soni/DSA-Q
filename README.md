@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sara-soni/DSA-Q/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/sara-soni/DSA-Q/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/sara-soni/DSA-Q/tree/master/0074-search-a-2d-matrix) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sara-soni/DSA-Q/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/sara-soni/DSA-Q/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sara-soni/DSA-Q/tree/master/0215-kth-largest-element-in-an-array) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sara-soni/DSA-Q/tree/master/0304-range-sum-query-2d-immutable) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sara-soni/DSA-Q/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sara-soni/DSA-Q/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/sara-soni/DSA-Q/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/sara-soni/DSA-Q/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sara-soni/DSA-Q/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sara-soni/DSA-Q/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/sara-soni/DSA-Q/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sara-soni/DSA-Q/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sara-soni/DSA-Q/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/sara-soni/DSA-Q/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/sara-soni/DSA-Q/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/sara-soni/DSA-Q/tree/master/0678-valid-parenthesis-string) |
