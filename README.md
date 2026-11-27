@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sara-soni/DSA-Q/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sara-soni/DSA-Q/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sara-soni/DSA-Q/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sara-soni/DSA-Q/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sara-soni/DSA-Q/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/sara-soni/DSA-Q/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sara-soni/DSA-Q/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sara-soni/DSA-Q/tree/master/0347-top-k-frequent-elements) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sara-soni/DSA-Q/tree/master/0023-merge-k-sorted-lists) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sara-soni/DSA-Q/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Queue
 |  |
@@ -480,4 +483,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/sara-soni/DSA-Q/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/sara-soni/DSA-Q/tree/master/0528-random-pick-with-weight) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sara-soni/DSA-Q/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sara-soni/DSA-Q/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
