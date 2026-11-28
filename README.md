@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/sara-soni/DSA-Q/tree/master/0713-subarray-product-less-than-k) |
 | [0848-shifting-letters](https://github.com/sara-soni/DSA-Q/tree/master/0848-shifting-letters) |
 | [0853-car-fleet](https://github.com/sara-soni/DSA-Q/tree/master/0853-car-fleet) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/sara-soni/DSA-Q/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sara-soni/DSA-Q/tree/master/0977-squares-of-a-sorted-array) |
 | [1254-number-of-closed-islands](https://github.com/sara-soni/DSA-Q/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/sara-soni/DSA-Q/tree/master/1267-count-servers-that-communicate) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sara-soni/DSA-Q/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/sara-soni/DSA-Q/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/sara-soni/DSA-Q/tree/master/0525-contiguous-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/sara-soni/DSA-Q/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sara-soni/DSA-Q/tree/master/1796-second-largest-digit-in-a-string) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sara-soni/DSA-Q/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sara-soni/DSA-Q/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -516,4 +518,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sara-soni/DSA-Q/tree/master/0023-merge-k-sorted-lists) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/sara-soni/DSA-Q/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
