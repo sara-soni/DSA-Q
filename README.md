@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sara-soni/DSA-Q/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sara-soni/DSA-Q/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/sara-soni/DSA-Q/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/sara-soni/DSA-Q/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/sara-soni/DSA-Q/tree/master/0074-search-a-2d-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sara-soni/DSA-Q/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/sara-soni/DSA-Q/tree/master/0169-majority-element) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/sara-soni/DSA-Q/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sara-soni/DSA-Q/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sara-soni/DSA-Q/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/sara-soni/DSA-Q/tree/master/0227-basic-calculator-ii) |
