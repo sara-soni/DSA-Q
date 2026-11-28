@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sara-soni/DSA-Q/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sara-soni/DSA-Q/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2409-count-days-spent-together](https://github.com/sara-soni/DSA-Q/tree/master/2409-count-days-spent-together) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/sara-soni/DSA-Q/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/sara-soni/DSA-Q/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sara-soni/DSA-Q/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2942-find-words-containing-character](https://github.com/sara-soni/DSA-Q/tree/master/2942-find-words-containing-character) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/sara-soni/DSA-Q/tree/master/0848-shifting-letters) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sara-soni/DSA-Q/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sara-soni/DSA-Q/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/sara-soni/DSA-Q/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sara-soni/DSA-Q/tree/master/3364-minimum-positive-sum-subarray) |
 ## Design
 |  |
