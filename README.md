@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3364-minimum-positive-sum-subarray](https://github.com/sara-soni/DSA-Q/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/sara-soni/DSA-Q/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sara-soni/DSA-Q/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3531-count-covered-buildings](https://github.com/sara-soni/DSA-Q/tree/master/3531-count-covered-buildings) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sara-soni/DSA-Q/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sara-soni/DSA-Q/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sara-soni/DSA-Q/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/sara-soni/DSA-Q/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3024-type-of-triangle](https://github.com/sara-soni/DSA-Q/tree/master/3024-type-of-triangle) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/sara-soni/DSA-Q/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3531-count-covered-buildings](https://github.com/sara-soni/DSA-Q/tree/master/3531-count-covered-buildings) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sara-soni/DSA-Q/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sara-soni/DSA-Q/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/sara-soni/DSA-Q/tree/master/3886-sum-of-sortable-integers) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/sara-soni/DSA-Q/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sara-soni/DSA-Q/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sara-soni/DSA-Q/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3531-count-covered-buildings](https://github.com/sara-soni/DSA-Q/tree/master/3531-count-covered-buildings) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sara-soni/DSA-Q/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3934-smallest-unique-subarray](https://github.com/sara-soni/DSA-Q/tree/master/3934-smallest-unique-subarray) |
 ## Heap (Priority Queue)
