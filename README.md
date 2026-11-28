@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/sara-soni/DSA-Q/tree/master/3024-type-of-triangle) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/sara-soni/DSA-Q/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sara-soni/DSA-Q/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3074-apple-redistribution-into-boxes](https://github.com/sara-soni/DSA-Q/tree/master/3074-apple-redistribution-into-boxes) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sara-soni/DSA-Q/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sara-soni/DSA-Q/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/sara-soni/DSA-Q/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/sara-soni/DSA-Q/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3024-type-of-triangle](https://github.com/sara-soni/DSA-Q/tree/master/3024-type-of-triangle) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/sara-soni/DSA-Q/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3074-apple-redistribution-into-boxes](https://github.com/sara-soni/DSA-Q/tree/master/3074-apple-redistribution-into-boxes) |
 | [3531-count-covered-buildings](https://github.com/sara-soni/DSA-Q/tree/master/3531-count-covered-buildings) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sara-soni/DSA-Q/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sara-soni/DSA-Q/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/sara-soni/DSA-Q/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/sara-soni/DSA-Q/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sara-soni/DSA-Q/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3074-apple-redistribution-into-boxes](https://github.com/sara-soni/DSA-Q/tree/master/3074-apple-redistribution-into-boxes) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sara-soni/DSA-Q/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sara-soni/DSA-Q/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/sara-soni/DSA-Q/tree/master/3789-minimum-cost-to-acquire-required-items) |
