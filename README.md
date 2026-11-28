@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/sara-soni/DSA-Q/tree/master/0528-random-pick-with-weight) |
 | [0704-binary-search](https://github.com/sara-soni/DSA-Q/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/sara-soni/DSA-Q/tree/master/0713-subarray-product-less-than-k) |
+| [0840-magic-squares-in-grid](https://github.com/sara-soni/DSA-Q/tree/master/0840-magic-squares-in-grid) |
 | [0848-shifting-letters](https://github.com/sara-soni/DSA-Q/tree/master/0848-shifting-letters) |
 | [0853-car-fleet](https://github.com/sara-soni/DSA-Q/tree/master/0853-car-fleet) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sara-soni/DSA-Q/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/sara-soni/DSA-Q/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0507-perfect-number](https://github.com/sara-soni/DSA-Q/tree/master/0507-perfect-number) |
 | [0528-random-pick-with-weight](https://github.com/sara-soni/DSA-Q/tree/master/0528-random-pick-with-weight) |
+| [0840-magic-squares-in-grid](https://github.com/sara-soni/DSA-Q/tree/master/0840-magic-squares-in-grid) |
 | [1352-product-of-the-last-k-numbers](https://github.com/sara-soni/DSA-Q/tree/master/1352-product-of-the-last-k-numbers) |
 | [1486-xor-operation-in-an-array](https://github.com/sara-soni/DSA-Q/tree/master/1486-xor-operation-in-an-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sara-soni/DSA-Q/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sara-soni/DSA-Q/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sara-soni/DSA-Q/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sara-soni/DSA-Q/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/sara-soni/DSA-Q/tree/master/0840-magic-squares-in-grid) |
 | [1254-number-of-closed-islands](https://github.com/sara-soni/DSA-Q/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/sara-soni/DSA-Q/tree/master/1267-count-servers-that-communicate) |
 | [1672-richest-customer-wealth](https://github.com/sara-soni/DSA-Q/tree/master/1672-richest-customer-wealth) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sara-soni/DSA-Q/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/sara-soni/DSA-Q/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/sara-soni/DSA-Q/tree/master/0525-contiguous-array) |
+| [0840-magic-squares-in-grid](https://github.com/sara-soni/DSA-Q/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sara-soni/DSA-Q/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sara-soni/DSA-Q/tree/master/1796-second-largest-digit-in-a-string) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sara-soni/DSA-Q/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
